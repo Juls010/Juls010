@@ -1,18 +1,18 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/816ef155b3e239d4a5521d8cc57ef41d/0c031b34fe21b0a6-7c/s540x810/1f6903943c1d26c9f62cf7a2422fde9edd746089.gifv" align="center" style="width: 300px" />
+<img src="https://64.media.tumblr.com/816ef155b3e239d4a5521d8cc57ef41d/0c031b34fe21b0a6-7c/s540x810/1f6903943c1d26c9f62cf7a2422fde9edd746089.gifv" align="center" style="width: 300px " />
 </div>  
   
 
 
 
-### My README  
-### <div align="center">I'm Julia and I'm learning to program👨‍💻</div>  
+###  
+### <div align="center">I am a web developer student 👨‍💻 </div>  
   
 
-- 🥣I love puchero🥣  
+
   
 
-- 🐰I have a guinea pig🐰  
+  🐹I love guinea pigs🐹 
   
 
 <br/>  
