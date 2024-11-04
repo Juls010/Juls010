@@ -63,7 +63,7 @@
 
 
 ## Github Stats  
-![]()  
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juls010&show_icons=true&theme=default)  
   
 
 <br/>  
@@ -74,7 +74,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
 
 <br/>  
 
