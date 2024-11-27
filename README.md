@@ -6,13 +6,15 @@
 
 
 ###  
-### <div align="center">I am a web developer student 👨‍💻 </div>  
+### <div align="center">Hi! My name is Julia and I am a web development student👨‍💻 </div>  
   
 
 
   
 
   🐹I love guinea pigs🐹 
+  Passionate for pixel art
+  
   
 
 <br/>  
