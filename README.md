@@ -12,7 +12,8 @@
 
   
 
-  🐹*I love guinea pigs*🐹 <br>
+  🐹*I love guinea pigs*🐹 
+  
   👾*Passionate for pixel art*🌃
   
   
@@ -21,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td align="center" valign="top" width="33%">
 
 
 
@@ -64,8 +65,11 @@
 
 
 ## Github Stats  
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juls010&show_icons=true&theme=default)  
+<div align="center">
   
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Juls010&show_icons=true&theme=default)  
+
+</div>  
 
 <br/>  
 
