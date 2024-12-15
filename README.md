@@ -6,15 +6,15 @@
 
 
 ###  
-### <div align="center">Hi! My name is Julia and I am a web development student👩‍💻 </div>  
+### <div align="center">Hi! My name is *Julia* and I am a web development student👩‍💻 </div>  
   
 
 
   
 
-  🐹*I love guinea pigs*🐹 
+ - 🐹 *I love guinea pigs* 🐹 
   
-  👾*Passionate for pixel art*🌃
+- 👾 *Passionate for pixel art* 🌃
   
   
 
@@ -22,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td align="center" valign="top" width="33%">
+<table><tr><td align="center"  valign="top" width="33%">
 
 
 
