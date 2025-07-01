@@ -41,8 +41,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juls010&langs_count=10&title_color=6366f1&text_color=14b8a6&icon_color=14b8a6&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juls010&stroke=14b8a6&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=14b8a6&currStreakLabel=6366f1&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
-
 </div>
 
 ---
